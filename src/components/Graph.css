@@ -1,0 +1,14 @@
+.mr-t {
+  margin-top: 20px;
+}
+.mr-d {
+  margin-bottom: 20px;
+}
+.mr-l {
+  margin-left: 30px;
+}
+
+.circle:before {
+  content: " \25CF";
+  font-size: 25px;
+}
