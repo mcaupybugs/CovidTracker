@@ -12,7 +12,7 @@ export default class StateWise extends React.Component {
     let data = await response.json();
     var statewise = data.statewise;
     this.setState({ data: statewise });
-    console.log(statewise);
+    //console.log(statewise);
   }
 
   render() {
